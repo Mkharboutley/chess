@@ -1,0 +1,12 @@
+{
+  "name": "3d-chess-server",
+  "version": "1.0.0",
+  "description": "WebSocket server for 3D Chess Master",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "ws": "^8.16.0"
+  }
+}
